@@ -5,20 +5,25 @@
 ![job_name](Captura de tela 2024-03-01 180212.png) 
 
 2 - The data is tabular and available at a web address. It is open data.
-![data](Captura de tela 2024-03-01 180334.png)
+![data](1.png)
 
 3 - The models chosen for regression are RandomForest and LightGBM
-![models](Captura de tela 2024-03-01 180852.png)
+![models](2.png)
+
 4 - Review
-![review](Captura de tela 2024-03-01 181110.png)
+![review](3.png)
+
 5 - Check the results by studying the metrics
-![results](Captura de tela 2024-03-01 185419.png)
+![results](4.png)
+
 6 - Deploy and test the model
-![results](Captura de tela 2024-03-01 185923.png)
+![results](5.png)
+
 7 - Test the deployed service
-![test](Captura de tela 2024-03-01 190044.png)
+![test](6.png)
+
 8 - Test result
-![test_result](Captura de tela 2024-03-01 192403.png)
-Captura de tela 2024-03-01 192403
+![test_result](7.png)
+
 
 
