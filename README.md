@@ -8,22 +8,20 @@
 ![review](3.png)
 
 3 - The models chosen for regression are RandomForest and LightGBM
-
-
-4 - Review
 ![results](4.png)
 
-5 - Check the results by studying the metrics
+4 - Review
 ![results](5.png)
 
-6 - Deploy and test the model
+5 - Check the results by studying the metrics
 ![test](6.png)
 
-7 - Test the deployed service
+6 - Deploy and test the model
 ![deploy](7.png)
 
-8 - Test result
+7 - Test the deployed service
 ![test_result](8.png)
+
 
 
 
