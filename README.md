@@ -5,10 +5,10 @@
 ![data](1.png)
 
 2 - The data is tabular and available at a web address. It is open data.
-![models](2.png)
+![review](3.png)
 
 3 - The models chosen for regression are RandomForest and LightGBM
-![review](3.png)
+
 
 4 - Review
 ![results](4.png)
