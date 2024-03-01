@@ -3,8 +3,10 @@
 ### Automated machine learning for bike rental prediction
 1 - After creating a workspace you need to create a job name
 ![job_name](Captura de tela 2024-03-01 180212.png) 
+
 2 - The data is tabular and available at a web address. It is open data.
 ![data](Captura de tela 2024-03-01 180334.png)
+
 3 - The models chosen for regression are RandomForest and LightGBM
 ![models](Captura de tela 2024-03-01 180852.png)
 4 - Review
